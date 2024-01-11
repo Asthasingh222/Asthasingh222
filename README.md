@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha Singh Jadon</h1>
-<h3 align="center">A passionate Software and Web Developer</h3>
+<h3 align="center">An  Aspiring Software and Web Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently pursuing Masters in Computer Applications <br>✒️I have completed my bachelors in Computer Science from Delhi University<br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on Front-end development projects <br>📫 How to reach me **asthasingh@gmail.com**
