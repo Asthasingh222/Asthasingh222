@@ -2,8 +2,12 @@
 <h3 align="center">An  Aspiring Software and Web Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently pursuing Masters in Computer Applications <br>✒️I have completed my bachelors in Computer Science from Delhi University<br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on Front-end development projects <br>📫 How to reach me **asthasingh@gmail.com**<br>📫 Know more about me -> 
+🔭 I’m currently pursuing Masters in Computer Applications <br>✒️I have completed my bachelors in Computer Science from Delhi University<br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on Front-end development projects <br>📫 How to reach me **asthasingh@gmail.com**<br>🪄 Know more about me -> 
 **https://asthasingh222.github.io/MyPortfolio/**
+<br>📑 Check my Resume -> 
+**<br>🪄 Know more about me -> 
+**https://drive.google.com/file/d/1juJdB5Ss10r-5n9VFNAq5MENl76nLLLR/view?usp=drive_link**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
