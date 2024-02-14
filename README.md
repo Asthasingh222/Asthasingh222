@@ -6,7 +6,6 @@
 **https://asthasingh222.github.io/MyPortfolio/**
 <br>📑 Check my Resume -> 
 **https://drive.google.com/file/d/1juJdB5Ss10r-5n9VFNAq5MENl76nLLLR/view?usp=drive_link**
-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
